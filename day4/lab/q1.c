@@ -8,7 +8,7 @@ format.*/
 int main()
 {
     int time, time_hour, time_min, time_sec;
-    
+
     printf("Enter the time: ");
     scanf("%d", &time);
 

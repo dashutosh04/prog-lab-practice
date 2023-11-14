@@ -8,6 +8,7 @@ int main()
 {
 
     int num, first, second, third, sum;
+
     printf("Enter the number: ");
     scanf("%d", &num);
 
